@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SLIIT MODEL2</string>
+
+    <string-array name="foodCategory">
+        <item>Noodles</item>
+        <item>Kottu</item>
+        <item>Drinks</item>
+        <item>Samosa</item>
+        <item>Those</item>
+    </string-array>
+
+</resources>
